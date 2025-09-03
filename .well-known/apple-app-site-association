@@ -1,15 +1,7 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "YCJR2G6WC2.alipay.BlueTapApp",
-                "paths": ["/fullapp/*"]
-            },
-            {
-                "appID": "YCJR2G6WC2.alipay.BlueTapApp.Clip",
-                "paths": ["/appclip/*"]
-            }
-        ]
-    }
+  "appclips": {
+    "apps": [
+      "YCJR2G6WC2.alipay.BlueTapApp.Clip"
+    ]
+  }
 }
